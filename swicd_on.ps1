@@ -15,7 +15,7 @@ Add this script to the global script settings of Playnite to execute after each 
 $SteamInstallLocation="C:\Program Files (x86)\Steam\Steam.exe"
 $HIDHideInstallLocation="C:\Program Files\Nefarius Software Solutions\HidHide\x64\HidHideCLI.exe"
 $SWICDInstallLocation="C:\Program Files\Maximilian Kenfenheuer\SWICD\swicd.exe"
-$CheckNeptune=d:\1tools\scripts\checkneptune.bat
+$CheckNeptune=& "c:\Program Files\Nefarius Software Solutions\HidHide\x64\HidHideCLI.exe" --cloak-state
 $SystemTrayRefresh="d:\1tools\scripts\SystemTrayRefresh.exe"
 
 <# main #>
