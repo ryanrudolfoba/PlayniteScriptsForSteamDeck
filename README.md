@@ -17,7 +17,7 @@ The appropriate script gets executed by Playnite - a front-end for games.
 1. Download and save neptune_on.ps1, swicd_on.ps1 and SystemTrayRefresh.exe to a common folder (example c:\tools\scripts)
 2. Edit the script and look at the heading for ***Initialize Variables***. Edit that to reflect the correct directory.
 3. Open an elevated / admin  PowerShell command prompt and execute - ***Set-ExecutionPolicy RemoteSigned*** and press Y on the prompt.
-4. Configure Playnte to use the scripts.
+4. Configure Playnite to use the scripts.
 
 ## How to Configure Playnite to use SWICD by Default on All Games
 
