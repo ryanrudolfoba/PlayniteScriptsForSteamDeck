@@ -65,7 +65,7 @@ The appropriate script gets executed by Playnite - a front-end for games.
 ### Screenshot for reference -
 ![image](https://user-images.githubusercontent.com/98122529/197358185-e290635b-2208-42bb-a244-08b454924101.png)
 
-## How to Configure Playnite to Use 7W TDP on ALl Games
+## How to Configure Playnite to Use 7W TDP on All Games
 1. Go to Playnite Desktop App
 2. Go to Settings
 3. Go to Scripts
