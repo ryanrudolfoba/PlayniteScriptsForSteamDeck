@@ -87,7 +87,7 @@ The appropriate script gets executed by Playnite - a front-end for games.
 ![image](https://user-images.githubusercontent.com/98122529/197358343-7b924ce4-8fc1-4b86-ac32-ca6ab8c529e4.png)
 
 
-**NOTE1:** There are several scripts that set TDP - tdp_3w.ps1, tdp7w.ps1, tdp_10w.ps1 and tdp_15w.ps1.
+**NOTE1:** There are several scripts that set TDP - tdp_3w.ps1, tdp_7w.ps1, tdp_10w.ps1 and tdp_15w.ps1.
 
 **NOTE2:** The TDP scripts will only get executed when Steam Deck is running on battery.
 
